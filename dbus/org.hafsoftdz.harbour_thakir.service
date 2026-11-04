@@ -1,0 +1,3 @@
+[D-BUS Service]
+Name=org.hafsoftdz.harbour_thakir
+Exec=/usr/bin/sailjail -p harbour-thakir.desktop /usr/bin/harbour-thakir

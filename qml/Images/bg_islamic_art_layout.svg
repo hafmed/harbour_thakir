@@ -1,0 +1,293 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1080 1920" width="100%" height="100%" preserveAspectRatio="none">
+<defs>
+
+        <!-- Sky & Night Gradient -->
+        <linearGradient id="deepNightSky" x1="50%" y1="0%" x2="50%" y2="100%">
+            <stop offset="0%" stop-color="#02060d"/>
+            <stop offset="20%" stop-color="#05101c"/>
+            <stop offset="45%" stop-color="#081726"/>
+            <stop offset="70%" stop-color="#0b2033"/>
+            <stop offset="85%" stop-color="#102a40"/>
+            <stop offset="100%" stop-color="#030911"/>
+        </linearGradient>
+
+        <!-- Pure Islamic Gold Gradients -->
+        <linearGradient id="goldBright" x1="0%" y1="0%" x2="100%" y2="100%">
+            <stop offset="0%" stop-color="#fff2cc"/>
+            <stop offset="25%" stop-color="#e5b854"/>
+            <stop offset="50%" stop-color="#fdf4db"/>
+            <stop offset="75%" stop-color="#c59124"/>
+            <stop offset="100%" stop-color="#7a540c"/>
+        </linearGradient>
+
+        <linearGradient id="goldGleam" x1="0%" y1="0%" x2="100%" y2="0%">
+            <stop offset="0%" stop-color="#c59124"/>
+            <stop offset="50%" stop-color="#fff4d4"/>
+            <stop offset="100%" stop-color="#c59124"/>
+        </linearGradient>
+
+        <linearGradient id="minaretBody" x1="0%" y1="0%" x2="100%" y2="0%">
+            <stop offset="0%" stop-color="#0b1b26"/>
+            <stop offset="35%" stop-color="#2c4d63"/>
+            <stop offset="65%" stop-color="#416b88"/>
+            <stop offset="100%" stop-color="#0e2330"/>
+        </linearGradient>
+
+        <linearGradient id="domeBody" x1="0%" y1="0%" x2="0%" y2="100%">
+            <stop offset="0%" stop-color="#1b415a" stop-opacity="0.92"/>
+            <stop offset="50%" stop-color="#0e273a" stop-opacity="0.96"/>
+            <stop offset="100%" stop-color="#04111c" stop-opacity="0.98"/>
+        </linearGradient>
+
+        <!-- Radial Glows -->
+        <radialGradient id="lanternGlow" cx="50%" cy="50%" r="50%">
+            <stop offset="0%" stop-color="#ffeaa7" stop-opacity="0.85"/>
+            <stop offset="25%" stop-color="#f39c12" stop-opacity="0.35"/>
+            <stop offset="60%" stop-color="#d35400" stop-opacity="0.08"/>
+            <stop offset="100%" stop-color="#000000" stop-opacity="0"/>
+        </radialGradient>
+
+        <radialGradient id="domeHorizonGlow" cx="50%" cy="85%" r="55%">
+            <stop offset="0%" stop-color="#dfa838" stop-opacity="0.25"/>
+            <stop offset="35%" stop-color="#8c6218" stop-opacity="0.10"/>
+            <stop offset="75%" stop-color="#030e17" stop-opacity="0.02"/>
+            <stop offset="100%" stop-color="#000000" stop-opacity="0"/>
+        </radialGradient>
+
+        <radialGradient id="centerGirihGlow" cx="50%" cy="50%" r="50%">
+            <stop offset="0%" stop-color="#3498db" stop-opacity="0.07"/>
+            <stop offset="50%" stop-color="#1abc9c" stop-opacity="0.02"/>
+            <stop offset="100%" stop-color="#000000" stop-opacity="0"/>
+        </radialGradient>
+    
+</defs>
+<rect width="1080" height="1920" fill="url(#deepNightSky)"/>
+<rect width="1080" height="1920" fill="url(#domeHorizonGlow)"/>
+<!-- Subtle Stars -->
+<g fill="#fff7d6">
+  <circle cx="130" cy="280" r="1.2" opacity="0.5"/>
+  <circle cx="250" cy="220" r="1.5" opacity="0.7"/>
+  <line x1="247.0" y1="220" x2="253.0" y2="220" stroke="#fff7d6" stroke-width="0.5" opacity="0.42"/>
+  <line x1="250" y1="217.0" x2="250" y2="223.0" stroke="#fff7d6" stroke-width="0.5" opacity="0.42"/>
+  <circle cx="380" cy="180" r="1.0" opacity="0.4"/>
+  <circle cx="700" cy="190" r="1.4" opacity="0.6"/>
+  <line x1="697.2" y1="190" x2="702.8" y2="190" stroke="#fff7d6" stroke-width="0.5" opacity="0.36"/>
+  <line x1="700" y1="187.2" x2="700" y2="192.8" stroke="#fff7d6" stroke-width="0.5" opacity="0.36"/>
+  <circle cx="830" cy="230" r="1.2" opacity="0.5"/>
+  <circle cx="950" cy="290" r="1.6" opacity="0.8"/>
+  <line x1="946.8" y1="290" x2="953.2" y2="290" stroke="#fff7d6" stroke-width="0.5" opacity="0.48"/>
+  <line x1="950" y1="286.8" x2="950" y2="293.2" stroke="#fff7d6" stroke-width="0.5" opacity="0.48"/>
+  <circle cx="160" cy="440" r="1.3" opacity="0.6"/>
+  <circle cx="320" cy="360" r="0.9" opacity="0.3"/>
+  <circle cx="760" cy="370" r="1.1" opacity="0.4"/>
+  <circle cx="920" cy="450" r="1.4" opacity="0.6"/>
+  <line x1="917.2" y1="450" x2="922.8" y2="450" stroke="#fff7d6" stroke-width="0.5" opacity="0.36"/>
+  <line x1="920" y1="447.2" x2="920" y2="452.8" stroke="#fff7d6" stroke-width="0.5" opacity="0.36"/>
+  <circle cx="140" cy="620" r="1.0" opacity="0.4"/>
+  <circle cx="940" cy="630" r="1.2" opacity="0.5"/>
+  <circle cx="150" cy="820" r="1.1" opacity="0.4"/>
+  <circle cx="930" cy="830" r="1.3" opacity="0.5"/>
+  <circle cx="160" cy="1050" r="1.0" opacity="0.3"/>
+  <circle cx="920" cy="1060" r="1.2" opacity="0.4"/>
+  <circle cx="220" cy="1260" r="1.1" opacity="0.4"/>
+  <circle cx="860" cy="1270" r="1.2" opacity="0.4"/>
+</g>
+<!-- Central 16-Point Girih Watermark -->
+<circle cx="540" cy="720" r="340" fill="url(#centerGirihGlow)"/>
+<g stroke="url(#goldBright)" stroke-linecap="round" stroke-linejoin="round" fill="none" opacity="0.13">
+  <circle cx="540" cy="720" r="320" stroke-width="1.2"/>
+  <circle cx="540" cy="720" r="305" stroke-width="0.8" stroke-dasharray="4,6"/>
+  <circle cx="540" cy="720" r="240" stroke-width="1.0"/>
+  <circle cx="540" cy="720" r="150" stroke-width="1.0"/>
+  <circle cx="540" cy="720" r="80" stroke-width="1.2"/>
+  <polygon points="845.0,720.0 750.9,761.9 821.8,836.7 718.8,839.4 755.7,935.7 659.4,898.8 656.7,1001.8 581.9,930.9 540.0,1025.0 498.1,930.9 423.3,1001.8 420.6,898.8 324.3,935.7 361.2,839.4 258.2,836.7 329.1,761.9 235.0,720.0 329.1,678.1 258.2,603.3 361.2,600.6 324.3,504.3 420.6,541.2 423.3,438.2 498.1,509.1 540.0,415.0 581.9,509.1 656.7,438.2 659.4,541.2 755.7,504.3 718.8,600.6 821.8,603.3 750.9,678.1" stroke-width="1.2"/>
+  <polygon points="765.0,720.0 540.0,945.0 315.0,720.0 540.0,495.0" stroke-width="0.8" opacity="0.75"/>
+  <polygon points="747.9,806.1 453.9,927.9 332.1,633.9 626.1,512.1" stroke-width="0.8" opacity="0.75"/>
+  <polygon points="699.1,879.1 380.9,879.1 380.9,560.9 699.1,560.9" stroke-width="0.8" opacity="0.75"/>
+  <polygon points="626.1,927.9 332.1,806.1 453.9,512.1 747.9,633.9" stroke-width="0.8" opacity="0.75"/>
+  <polygon points="682.2,748.3 623.1,775.6 620.6,840.6 559.5,818.1 511.7,862.2 484.4,803.1 419.4,800.6 441.9,739.5 397.8,691.7 456.9,664.4 459.4,599.4 520.5,621.9 568.3,577.8 595.6,636.9 660.6,639.4 638.1,700.5" stroke-width="1.0"/>
+  <circle cx="590.0" cy="720.0" r="30" stroke-width="0.8"/>
+  <circle cx="575.4" cy="755.4" r="30" stroke-width="0.8"/>
+  <circle cx="540.0" cy="770.0" r="30" stroke-width="0.8"/>
+  <circle cx="504.6" cy="755.4" r="30" stroke-width="0.8"/>
+  <circle cx="490.0" cy="720.0" r="30" stroke-width="0.8"/>
+  <circle cx="504.6" cy="684.6" r="30" stroke-width="0.8"/>
+  <circle cx="540.0" cy="670.0" r="30" stroke-width="0.8"/>
+  <circle cx="575.4" cy="684.6" r="30" stroke-width="0.8"/>
+  <circle cx="540" cy="720" r="30" stroke-width="1.2"/>
+</g>
+<!-- Flanking Slender Minarets Framing Screen Edges -->
+<line x1="72" y1="120" x2="72" y2="1860" stroke="url(#goldBright)" stroke-width="1.2" opacity="0.4"/>
+<line x1="76" y1="180" x2="76" y2="1820" stroke="url(#goldBright)" stroke-width="0.6" stroke-dasharray="4,6" opacity="0.25"/>
+<circle cx="42" cy="125" r="3" fill="url(#goldBright)"/>
+<circle cx="42" cy="115" r="5" fill="url(#goldBright)"/>
+<path d="M 36 103 A 8 8 0 1 0 46 118 A 6.5 6.5 0 1 1 36 103 Z" fill="url(#goldBright)"/>
+<polygon points="42,130 32,240 52,240" fill="url(#minaretBody)" stroke="url(#goldBright)" stroke-width="1.0"/>
+<line x1="42" y1="130" x2="42" y2="240" stroke="url(#goldBright)" stroke-width="0.8" opacity="0.8"/>
+<rect x="28" y="240" width="28" height="10" rx="2" fill="url(#goldBright)"/>
+<rect x="31" y="250" width="22" height="45" fill="url(#minaretBody)" stroke="url(#goldBright)" stroke-width="1.0"/>
+<path d="M 36 272 Q 42 256 48 272 L 48 290 L 36 290 Z" fill="#020810" stroke="url(#goldBright)" stroke-width="0.8"/>
+<polygon points="25,295 59,295 54,312 30,312" fill="url(#goldBright)"/>
+<line x1="24" y1="292" x2="60" y2="292" stroke="url(#goldBright)" stroke-width="1.8"/>
+<rect x="30" y="312" width="24" height="428" fill="url(#minaretBody)" stroke="url(#goldBright)" stroke-width="1.0"/>
+<line x1="36" y1="314" x2="36" y2="738" stroke="url(#goldBright)" stroke-width="0.6" opacity="0.5"/>
+<line x1="42" y1="314" x2="42" y2="738" stroke="url(#goldBright)" stroke-width="0.8" opacity="0.8"/>
+<line x1="48" y1="314" x2="48" y2="738" stroke="url(#goldBright)" stroke-width="0.6" opacity="0.5"/>
+<path d="M 39 396 L 39 385 Q 42 380 45 385 L 45 396 Z" fill="#020810" stroke="url(#goldBright)" stroke-width="0.6"/>
+<path d="M 39 516 L 39 505 Q 42 500 45 505 L 45 516 Z" fill="#020810" stroke="url(#goldBright)" stroke-width="0.6"/>
+<path d="M 39 636 L 39 625 Q 42 620 45 625 L 45 636 Z" fill="#020810" stroke="url(#goldBright)" stroke-width="0.6"/>
+<polygon points="22,740 62,740 56,762 28,762" fill="url(#goldBright)"/>
+<line x1="20" y1="737" x2="64" y2="737" stroke="url(#goldBright)" stroke-width="2.0"/>
+<rect x="28" y="762" width="28" height="658" fill="url(#minaretBody)" stroke="url(#goldBright)" stroke-width="1.0"/>
+<line x1="35" y1="764" x2="35" y2="1418" stroke="url(#goldBright)" stroke-width="0.6" opacity="0.5"/>
+<line x1="42" y1="764" x2="42" y2="1418" stroke="url(#goldBright)" stroke-width="0.8" opacity="0.8"/>
+<line x1="49" y1="764" x2="49" y2="1418" stroke="url(#goldBright)" stroke-width="0.6" opacity="0.5"/>
+<rect x="27" y="950" width="30" height="12" fill="url(#goldBright)" opacity="0.85"/>
+<line x1="27" y1="956" x2="57" y2="956" stroke="#0b1b26" stroke-width="1.0"/>
+<rect x="27" y="1180" width="30" height="12" fill="url(#goldBright)" opacity="0.85"/>
+<line x1="27" y1="1186" x2="57" y2="1186" stroke="#0b1b26" stroke-width="1.0"/>
+<polygon points="28,1420 56,1420 62,1445 22,1445" fill="url(#goldBright)"/>
+<rect x="22" y="1445" width="40" height="415" fill="url(#minaretBody)" stroke="url(#goldBright)" stroke-width="1.2"/>
+<path d="M 31 1760 L 31 1540 Q 42 1510 53 1540 L 53 1760 Z" fill="#020810" stroke="url(#goldBright)" stroke-width="1.0" opacity="0.7"/>
+<line x1="1008" y1="120" x2="1008" y2="1860" stroke="url(#goldBright)" stroke-width="1.2" opacity="0.4"/>
+<line x1="1004" y1="180" x2="1004" y2="1820" stroke="url(#goldBright)" stroke-width="0.6" stroke-dasharray="4,6" opacity="0.25"/>
+<circle cx="1038" cy="125" r="3" fill="url(#goldBright)"/>
+<circle cx="1038" cy="115" r="5" fill="url(#goldBright)"/>
+<path d="M 1032 103 A 8 8 0 1 0 1042 118 A 6.5 6.5 0 1 1 1032 103 Z" fill="url(#goldBright)"/>
+<polygon points="1038,130 1028,240 1048,240" fill="url(#minaretBody)" stroke="url(#goldBright)" stroke-width="1.0"/>
+<line x1="1038" y1="130" x2="1038" y2="240" stroke="url(#goldBright)" stroke-width="0.8" opacity="0.8"/>
+<rect x="1024" y="240" width="28" height="10" rx="2" fill="url(#goldBright)"/>
+<rect x="1027" y="250" width="22" height="45" fill="url(#minaretBody)" stroke="url(#goldBright)" stroke-width="1.0"/>
+<path d="M 1032 272 Q 1038 256 1044 272 L 1044 290 L 1032 290 Z" fill="#020810" stroke="url(#goldBright)" stroke-width="0.8"/>
+<polygon points="1021,295 1055,295 1050,312 1026,312" fill="url(#goldBright)"/>
+<line x1="1020" y1="292" x2="1056" y2="292" stroke="url(#goldBright)" stroke-width="1.8"/>
+<rect x="1026" y="312" width="24" height="428" fill="url(#minaretBody)" stroke="url(#goldBright)" stroke-width="1.0"/>
+<line x1="1032" y1="314" x2="1032" y2="738" stroke="url(#goldBright)" stroke-width="0.6" opacity="0.5"/>
+<line x1="1038" y1="314" x2="1038" y2="738" stroke="url(#goldBright)" stroke-width="0.8" opacity="0.8"/>
+<line x1="1044" y1="314" x2="1044" y2="738" stroke="url(#goldBright)" stroke-width="0.6" opacity="0.5"/>
+<path d="M 1035 396 L 1035 385 Q 1038 380 1041 385 L 1041 396 Z" fill="#020810" stroke="url(#goldBright)" stroke-width="0.6"/>
+<path d="M 1035 516 L 1035 505 Q 1038 500 1041 505 L 1041 516 Z" fill="#020810" stroke="url(#goldBright)" stroke-width="0.6"/>
+<path d="M 1035 636 L 1035 625 Q 1038 620 1041 625 L 1041 636 Z" fill="#020810" stroke="url(#goldBright)" stroke-width="0.6"/>
+<polygon points="1018,740 1058,740 1052,762 1024,762" fill="url(#goldBright)"/>
+<line x1="1016" y1="737" x2="1060" y2="737" stroke="url(#goldBright)" stroke-width="2.0"/>
+<rect x="1024" y="762" width="28" height="658" fill="url(#minaretBody)" stroke="url(#goldBright)" stroke-width="1.0"/>
+<line x1="1031" y1="764" x2="1031" y2="1418" stroke="url(#goldBright)" stroke-width="0.6" opacity="0.5"/>
+<line x1="1038" y1="764" x2="1038" y2="1418" stroke="url(#goldBright)" stroke-width="0.8" opacity="0.8"/>
+<line x1="1045" y1="764" x2="1045" y2="1418" stroke="url(#goldBright)" stroke-width="0.6" opacity="0.5"/>
+<rect x="1023" y="950" width="30" height="12" fill="url(#goldBright)" opacity="0.85"/>
+<line x1="1023" y1="956" x2="1053" y2="956" stroke="#0b1b26" stroke-width="1.0"/>
+<rect x="1023" y="1180" width="30" height="12" fill="url(#goldBright)" opacity="0.85"/>
+<line x1="1023" y1="1186" x2="1053" y2="1186" stroke="#0b1b26" stroke-width="1.0"/>
+<polygon points="1024,1420 1052,1420 1058,1445 1018,1445" fill="url(#goldBright)"/>
+<rect x="1018" y="1445" width="40" height="415" fill="url(#minaretBody)" stroke="url(#goldBright)" stroke-width="1.2"/>
+<path d="M 1027 1760 L 1027 1540 Q 1038 1510 1049 1540 L 1049 1760 Z" fill="#020810" stroke="url(#goldBright)" stroke-width="1.0" opacity="0.7"/>
+<!-- Top Moorish Arch Framing Header Area -->
+<g id="topHeaderArch">
+<path d="M 65,220 C 65,120 200,30 540,15 C 880,30 1015,120 1015,220 L 1015,0 L 65,0 Z" fill="#02060b" opacity="0.75"/>
+<g stroke="url(#goldBright)" fill="none" opacity="0.35" stroke-width="0.9">
+  <circle cx="140" cy="55" r="35"/>
+  <circle cx="140" cy="55" r="22" stroke-dasharray="3,3"/>
+  <circle cx="230" cy="40" r="25"/>
+  <circle cx="940" cy="55" r="35"/>
+  <circle cx="940" cy="55" r="22" stroke-dasharray="3,3"/>
+  <circle cx="850" cy="40" r="25"/>
+</g>
+<path d="M 65,220 C 65,115 200,25 540,10 C 880,25 1015,115 1015,220" fill="none" stroke="url(#goldBright)" stroke-width="3.2" opacity="0.9"/>
+<path d="M 73,220 C 73,122 205,33 540,20 C 875,33 1007,122 1007,220" fill="none" stroke="url(#goldBright)" stroke-width="1.2" opacity="0.5"/>
+<path d="M 83,220 C 83,130 212,45 540,32 C 868,45 997,130 997,220" fill="none" stroke="url(#goldBright)" stroke-width="1.8" opacity="0.75"/>
+<path d="M 83.0,220.0 Q 109.5,201.9 123.9,173.3 Q 153.5,159.5 173.0,133.2 Q 205.6,123.4 230.1,99.8 Q 265.8,93.7 295.4,72.9 Q 334.2,70.5 368.8,52.7 Q 410.9,53.7 450.3,39.0 Q 495.8,43.5 540.0,32.0 Q 584.2,43.5 629.7,39.0 Q 669.1,53.7 711.2,52.7 Q 745.8,70.5 784.6,72.9 Q 814.2,93.7 849.9,99.8 Q 874.4,123.4 907.0,133.2 Q 926.5,159.5 956.1,173.3 Q 970.5,201.9 997.0,220.0" fill="none" stroke="url(#goldBright)" stroke-width="1.2" opacity="0.6"/>
+<circle cx="540" cy="10" r="5" fill="url(#goldBright)"/>
+<ellipse cx="540" cy="15" rx="2" ry="4" fill="none" stroke="url(#goldBright)" stroke-width="1.0"/>
+<ellipse cx="540" cy="22" rx="2" ry="4" fill="none" stroke="url(#goldBright)" stroke-width="1.0"/>
+<ellipse cx="540" cy="29" rx="2" ry="4" fill="none" stroke="url(#goldBright)" stroke-width="1.0"/>
+<ellipse cx="540" cy="36" rx="2" ry="4" fill="none" stroke="url(#goldBright)" stroke-width="1.0"/>
+<ellipse cx="540" cy="43" rx="2" ry="4" fill="none" stroke="url(#goldBright)" stroke-width="1.0"/>
+<ellipse cx="540" cy="50" rx="2" ry="4" fill="none" stroke="url(#goldBright)" stroke-width="1.0"/>
+<circle cx="540" cy="68" r="65" fill="url(#lanternGlow)"/>
+<path d="M 529 56 Q 540 44 551 56 Z" fill="url(#goldBright)"/>
+<rect x="528" y="56" width="24" height="3" rx="1.5" fill="url(#goldBright)"/>
+<polygon points="529,59 551,59 548,84 532,84" fill="#ffeaa7" fill-opacity="0.9" stroke="url(#goldBright)" stroke-width="1.2"/>
+<line x1="536" y1="59" x2="538" y2="84" stroke="url(#goldBright)" stroke-width="0.8"/>
+<line x1="544" y1="59" x2="542" y2="84" stroke="url(#goldBright)" stroke-width="0.8"/>
+<path d="M 538 74 Q 540 66 542 74 Q 540 79 538 74 Z" fill="#ffffff"/>
+<polygon points="532,84 548,84 540,94" fill="url(#goldBright)"/>
+<circle cx="540" cy="97" r="2.5" fill="url(#goldBright)"/>
+</g>
+<!-- Bottom Mosque Architecture & Domes -->
+<g id="bottomMosqueArchitecture">
+<rect x="65" y="1720" width="950" height="140" fill="url(#domeBody)" stroke="url(#goldBright)" stroke-width="1.2"/>
+<path d="M 95 1860 L 95 1775 Q 130.0 1745 165 1775 L 165 1860 Z" fill="#020810" stroke="url(#goldBright)" stroke-width="1.0"/>
+<path d="M 103 1860 L 103 1782 Q 130.0 1756 157 1782 L 157 1860 Z" fill="none" stroke="url(#goldBright)" stroke-width="0.6" opacity="0.6"/>
+<path d="M 165 1860 L 165 1775 Q 200.0 1745 235 1775 L 235 1860 Z" fill="#020810" stroke="url(#goldBright)" stroke-width="1.0"/>
+<path d="M 173 1860 L 173 1782 Q 200.0 1756 227 1782 L 227 1860 Z" fill="none" stroke="url(#goldBright)" stroke-width="0.6" opacity="0.6"/>
+<path d="M 235 1860 L 235 1775 Q 270.0 1745 305 1775 L 305 1860 Z" fill="#020810" stroke="url(#goldBright)" stroke-width="1.0"/>
+<path d="M 243 1860 L 243 1782 Q 270.0 1756 297 1782 L 297 1860 Z" fill="none" stroke="url(#goldBright)" stroke-width="0.6" opacity="0.6"/>
+<path d="M 305 1860 L 305 1775 Q 340.0 1745 375 1775 L 375 1860 Z" fill="#020810" stroke="url(#goldBright)" stroke-width="1.0"/>
+<path d="M 313 1860 L 313 1782 Q 340.0 1756 367 1782 L 367 1860 Z" fill="none" stroke="url(#goldBright)" stroke-width="0.6" opacity="0.6"/>
+<path d="M 375 1860 L 375 1775 Q 410.0 1745 445 1775 L 445 1860 Z" fill="#020810" stroke="url(#goldBright)" stroke-width="1.0"/>
+<path d="M 383 1860 L 383 1782 Q 410.0 1756 437 1782 L 437 1860 Z" fill="none" stroke="url(#goldBright)" stroke-width="0.6" opacity="0.6"/>
+<path d="M 445 1860 L 445 1775 Q 480.0 1745 515 1775 L 515 1860 Z" fill="#020810" stroke="url(#goldBright)" stroke-width="1.0"/>
+<path d="M 453 1860 L 453 1782 Q 480.0 1756 507 1782 L 507 1860 Z" fill="none" stroke="url(#goldBright)" stroke-width="0.6" opacity="0.6"/>
+<path d="M 515 1860 L 515 1775 Q 550.0 1745 585 1775 L 585 1860 Z" fill="#020810" stroke="url(#goldBright)" stroke-width="1.0"/>
+<path d="M 523 1860 L 523 1782 Q 550.0 1756 577 1782 L 577 1860 Z" fill="none" stroke="url(#goldBright)" stroke-width="0.6" opacity="0.6"/>
+<path d="M 585 1860 L 585 1775 Q 620.0 1745 655 1775 L 655 1860 Z" fill="#020810" stroke="url(#goldBright)" stroke-width="1.0"/>
+<path d="M 593 1860 L 593 1782 Q 620.0 1756 647 1782 L 647 1860 Z" fill="none" stroke="url(#goldBright)" stroke-width="0.6" opacity="0.6"/>
+<path d="M 655 1860 L 655 1775 Q 690.0 1745 725 1775 L 725 1860 Z" fill="#020810" stroke="url(#goldBright)" stroke-width="1.0"/>
+<path d="M 663 1860 L 663 1782 Q 690.0 1756 717 1782 L 717 1860 Z" fill="none" stroke="url(#goldBright)" stroke-width="0.6" opacity="0.6"/>
+<path d="M 725 1860 L 725 1775 Q 760.0 1745 795 1775 L 795 1860 Z" fill="#020810" stroke="url(#goldBright)" stroke-width="1.0"/>
+<path d="M 733 1860 L 733 1782 Q 760.0 1756 787 1782 L 787 1860 Z" fill="none" stroke="url(#goldBright)" stroke-width="0.6" opacity="0.6"/>
+<path d="M 795 1860 L 795 1775 Q 830.0 1745 865 1775 L 865 1860 Z" fill="#020810" stroke="url(#goldBright)" stroke-width="1.0"/>
+<path d="M 803 1860 L 803 1782 Q 830.0 1756 857 1782 L 857 1860 Z" fill="none" stroke="url(#goldBright)" stroke-width="0.6" opacity="0.6"/>
+<path d="M 865 1860 L 865 1775 Q 900.0 1745 935 1775 L 935 1860 Z" fill="#020810" stroke="url(#goldBright)" stroke-width="1.0"/>
+<path d="M 873 1860 L 873 1782 Q 900.0 1756 927 1782 L 927 1860 Z" fill="none" stroke="url(#goldBright)" stroke-width="0.6" opacity="0.6"/>
+<path d="M 935 1860 L 935 1775 Q 970.0 1745 1005 1775 L 1005 1860 Z" fill="#020810" stroke="url(#goldBright)" stroke-width="1.0"/>
+<path d="M 943 1860 L 943 1782 Q 970.0 1756 997 1782 L 997 1860 Z" fill="none" stroke="url(#goldBright)" stroke-width="0.6" opacity="0.6"/>
+<path d="M 65,1720 L 75,1720 L 75,1708 L 91,1708 L 91,1720 L 101,1720 L 101,1708 L 117,1708 L 117,1720 L 127,1720 L 127,1708 L 143,1708 L 143,1720 L 153,1720 L 153,1708 L 169,1708 L 169,1720 L 179,1720 L 179,1708 L 195,1708 L 195,1720 L 205,1720 L 205,1708 L 221,1708 L 221,1720 L 231,1720 L 231,1708 L 247,1708 L 247,1720 L 257,1720 L 257,1708 L 273,1708 L 273,1720 L 283,1720 L 283,1708 L 299,1708 L 299,1720 L 309,1720 L 309,1708 L 325,1708 L 325,1720 L 335,1720 L 335,1708 L 351,1708 L 351,1720 L 361,1720 L 361,1708 L 377,1708 L 377,1720 L 387,1720 L 387,1708 L 403,1708 L 403,1720 L 413,1720 L 413,1708 L 429,1708 L 429,1720 L 439,1720 L 439,1708 L 455,1708 L 455,1720 L 465,1720 L 465,1708 L 481,1708 L 481,1720 L 491,1720 L 491,1708 L 507,1708 L 507,1720 L 517,1720 L 517,1708 L 533,1708 L 533,1720 L 543,1720 L 543,1708 L 559,1708 L 559,1720 L 569,1720 L 569,1708 L 585,1708 L 585,1720 L 595,1720 L 595,1708 L 611,1708 L 611,1720 L 621,1720 L 621,1708 L 637,1708 L 637,1720 L 647,1720 L 647,1708 L 663,1708 L 663,1720 L 673,1720 L 673,1708 L 689,1708 L 689,1720 L 699,1720 L 699,1708 L 715,1708 L 715,1720 L 725,1720 L 725,1708 L 741,1708 L 741,1720 L 751,1720 L 751,1708 L 767,1708 L 767,1720 L 777,1720 L 777,1708 L 793,1708 L 793,1720 L 803,1720 L 803,1708 L 819,1708 L 819,1720 L 829,1720 L 829,1708 L 845,1708 L 845,1720 L 855,1720 L 855,1708 L 871,1708 L 871,1720 L 881,1720 L 881,1708 L 897,1708 L 897,1720 L 907,1720 L 907,1708 L 923,1708 L 923,1720 L 933,1720 L 933,1708 L 949,1708 L 949,1720 L 959,1720 L 959,1708 L 975,1708 L 975,1720 L 985,1720 L 985,1708 L 1001,1708 L 1001,1720 L 1015,1720" stroke="url(#goldBright)" stroke-width="1.0" fill="url(#goldBright)"/>
+<path d="M 225 1708 Q 340 1550 455 1708 Z" fill="url(#domeBody)" stroke="url(#goldBright)" stroke-width="1.4"/>
+<path d="M 270 1708 Q 312.0 1590 340 1550" fill="none" stroke="url(#goldBright)" stroke-width="0.7" opacity="0.55"/>
+<path d="M 305 1708 Q 326.0 1590 340 1550" fill="none" stroke="url(#goldBright)" stroke-width="0.7" opacity="0.55"/>
+<path d="M 340 1708 Q 340.0 1590 340 1550" fill="none" stroke="url(#goldBright)" stroke-width="0.7" opacity="0.55"/>
+<path d="M 375 1708 Q 354.0 1590 340 1550" fill="none" stroke="url(#goldBright)" stroke-width="0.7" opacity="0.55"/>
+<path d="M 410 1708 Q 368.0 1590 340 1550" fill="none" stroke="url(#goldBright)" stroke-width="0.7" opacity="0.55"/>
+<line x1="340" y1="1550" x2="340" y2="1525" stroke="url(#goldBright)" stroke-width="1.8"/>
+<circle cx="340" cy="1526" r="3.5" fill="url(#goldBright)"/>
+<path d="M 335 1512 A 6 6 0 1 0 344 1523 A 4.5 4.5 0 1 1 335 1512 Z" fill="url(#goldBright)"/>
+<path d="M 625 1708 Q 740 1550 855 1708 Z" fill="url(#domeBody)" stroke="url(#goldBright)" stroke-width="1.4"/>
+<path d="M 670 1708 Q 712.0 1590 740 1550" fill="none" stroke="url(#goldBright)" stroke-width="0.7" opacity="0.55"/>
+<path d="M 705 1708 Q 726.0 1590 740 1550" fill="none" stroke="url(#goldBright)" stroke-width="0.7" opacity="0.55"/>
+<path d="M 740 1708 Q 740.0 1590 740 1550" fill="none" stroke="url(#goldBright)" stroke-width="0.7" opacity="0.55"/>
+<path d="M 775 1708 Q 754.0 1590 740 1550" fill="none" stroke="url(#goldBright)" stroke-width="0.7" opacity="0.55"/>
+<path d="M 810 1708 Q 768.0 1590 740 1550" fill="none" stroke="url(#goldBright)" stroke-width="0.7" opacity="0.55"/>
+<line x1="740" y1="1550" x2="740" y2="1525" stroke="url(#goldBright)" stroke-width="1.8"/>
+<circle cx="740" cy="1526" r="3.5" fill="url(#goldBright)"/>
+<path d="M 735 1512 A 6 6 0 1 0 744 1523 A 4.5 4.5 0 1 1 735 1512 Z" fill="url(#goldBright)"/>
+<path d="M 365 1708 C 365 1590 440 1495 540 1495 C 640 1495 715 1590 715 1708 Z" fill="url(#domeBody)" stroke="url(#goldBright)" stroke-width="2.2"/>
+<path d="M 375 1708 C 375 1600 445 1508 540 1508 C 635 1508 705 1600 705 1708 Z" fill="none" stroke="url(#goldBright)" stroke-width="0.9" opacity="0.6"/>
+<path d="M 410 1708 Q 494.5 1545 540 1495" fill="none" stroke="url(#goldBright)" stroke-width="0.9" opacity="0.75"/>
+<path d="M 450 1708 Q 508.5 1545 540 1495" fill="none" stroke="url(#goldBright)" stroke-width="0.9" opacity="0.75"/>
+<path d="M 485 1708 Q 520.75 1545 540 1495" fill="none" stroke="url(#goldBright)" stroke-width="0.9" opacity="0.75"/>
+<path d="M 518 1708 Q 532.3 1545 540 1495" fill="none" stroke="url(#goldBright)" stroke-width="0.9" opacity="0.75"/>
+<path d="M 540 1708 Q 540.0 1545 540 1495" fill="none" stroke="url(#goldBright)" stroke-width="0.9" opacity="0.75"/>
+<path d="M 562 1708 Q 547.7 1545 540 1495" fill="none" stroke="url(#goldBright)" stroke-width="0.9" opacity="0.75"/>
+<path d="M 595 1708 Q 559.25 1545 540 1495" fill="none" stroke="url(#goldBright)" stroke-width="0.9" opacity="0.75"/>
+<path d="M 630 1708 Q 571.5 1545 540 1495" fill="none" stroke="url(#goldBright)" stroke-width="0.9" opacity="0.75"/>
+<path d="M 670 1708 Q 585.5 1545 540 1495" fill="none" stroke="url(#goldBright)" stroke-width="0.9" opacity="0.75"/>
+<path d="M 412 1708 L 412 1682 Q 420 1668 428 1682 L 428 1708 Z" fill="#ffeaa7" fill-opacity="0.3" stroke="url(#goldBright)" stroke-width="0.7"/>
+<path d="M 448 1708 L 448 1682 Q 456 1668 464 1682 L 464 1708 Z" fill="#ffeaa7" fill-opacity="0.3" stroke="url(#goldBright)" stroke-width="0.7"/>
+<path d="M 484 1708 L 484 1682 Q 492 1668 500 1682 L 500 1708 Z" fill="#ffeaa7" fill-opacity="0.3" stroke="url(#goldBright)" stroke-width="0.7"/>
+<path d="M 520 1708 L 520 1682 Q 528 1668 536 1682 L 536 1708 Z" fill="#ffeaa7" fill-opacity="0.3" stroke="url(#goldBright)" stroke-width="0.7"/>
+<path d="M 556 1708 L 556 1682 Q 564 1668 572 1682 L 572 1708 Z" fill="#ffeaa7" fill-opacity="0.3" stroke="url(#goldBright)" stroke-width="0.7"/>
+<path d="M 592 1708 L 592 1682 Q 600 1668 608 1682 L 608 1708 Z" fill="#ffeaa7" fill-opacity="0.3" stroke="url(#goldBright)" stroke-width="0.7"/>
+<path d="M 628 1708 L 628 1682 Q 636 1668 644 1682 L 644 1708 Z" fill="#ffeaa7" fill-opacity="0.3" stroke="url(#goldBright)" stroke-width="0.7"/>
+<line x1="540" y1="1495" x2="540" y2="1435" stroke="url(#goldBright)" stroke-width="2.5"/>
+<circle cx="540" cy="1480" r="5.5" fill="url(#goldBright)"/>
+<circle cx="540" cy="1462" r="4.5" fill="url(#goldBright)"/>
+<circle cx="540" cy="1448" r="3.5" fill="url(#goldBright)"/>
+<path d="M 531 1426 A 11 11 0 1 0 547 1445 A 8.5 8.5 0 1 1 531 1426 Z" fill="url(#goldBright)"/>
+</g>
+<!-- Base Ground Terrace Frieze -->
+<rect x="0" y="1860" width="1080" height="60" fill="#02070e"/>
+<line x1="0" y1="1860" x2="1080" y2="1860" stroke="url(#goldBright)" stroke-width="2.0"/>
+<line x1="0" y1="1865" x2="1080" y2="1865" stroke="url(#goldBright)" stroke-width="0.8" opacity="0.6"/>
+<path d="M 0,1875 10,1868 20,1875 L 20,1875 30,1868 40,1875 L 40,1875 50,1868 60,1875 L 60,1875 70,1868 80,1875 L 80,1875 90,1868 100,1875 L 100,1875 110,1868 120,1875 L 120,1875 130,1868 140,1875 L 140,1875 150,1868 160,1875 L 160,1875 170,1868 180,1875 L 180,1875 190,1868 200,1875 L 200,1875 210,1868 220,1875 L 220,1875 230,1868 240,1875 L 240,1875 250,1868 260,1875 L 260,1875 270,1868 280,1875 L 280,1875 290,1868 300,1875 L 300,1875 310,1868 320,1875 L 320,1875 330,1868 340,1875 L 340,1875 350,1868 360,1875 L 360,1875 370,1868 380,1875 L 380,1875 390,1868 400,1875 L 400,1875 410,1868 420,1875 L 420,1875 430,1868 440,1875 L 440,1875 450,1868 460,1875 L 460,1875 470,1868 480,1875 L 480,1875 490,1868 500,1875 L 500,1875 510,1868 520,1875 L 520,1875 530,1868 540,1875 L 540,1875 550,1868 560,1875 L 560,1875 570,1868 580,1875 L 580,1875 590,1868 600,1875 L 600,1875 610,1868 620,1875 L 620,1875 630,1868 640,1875 L 640,1875 650,1868 660,1875 L 660,1875 670,1868 680,1875 L 680,1875 690,1868 700,1875 L 700,1875 710,1868 720,1875 L 720,1875 730,1868 740,1875 L 740,1875 750,1868 760,1875 L 760,1875 770,1868 780,1875 L 780,1875 790,1868 800,1875 L 800,1875 810,1868 820,1875 L 820,1875 830,1868 840,1875 L 840,1875 850,1868 860,1875 L 860,1875 870,1868 880,1875 L 880,1875 890,1868 900,1875 L 900,1875 910,1868 920,1875 L 920,1875 930,1868 940,1875 L 940,1875 950,1868 960,1875 L 960,1875 970,1868 980,1875 L 980,1875 990,1868 1000,1875 L 1000,1875 1010,1868 1020,1875 L 1020,1875 1030,1868 1040,1875 L 1040,1875 1050,1868 1060,1875 L 1060,1875 1070,1868 1080,1875" fill="none" stroke="url(#goldBright)" stroke-width="0.8" opacity="0.4"/>
+</svg>

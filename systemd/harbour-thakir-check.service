@@ -1,0 +1,48 @@
+[Unit]
+Description=Athan periodic check (triggered by harbour-thakir-check.timer)
+
+[Service]
+Type=oneshot
+# Allow full Athan and Athkar playlists to finish without systemd's default 90s timeout
+TimeoutSec=15min
+# Runs as the normal device user (not root) - needed to read that
+# user's ~/.config/org.hafsoftdz/harbour-thakir settings and to have a working audio
+# session for paplay. NOTE: hardcoded to the standard Sailfish primary
+# user account; if your device's user isn't "defaultuser", edit this
+# (and re-run daemon-reload) accordingly.
+User=defaultuser
+# A system-level service doesn't automatically inherit the user
+# session's environment - specifically XDG_RUNTIME_DIR, which PulseAudio
+# clients like paplay need to find and connect to the running PulseAudio
+# server's socket (at $XDG_RUNTIME_DIR/pulse/native). Without this,
+# paplay fails to connect silently. 100000 matches the UID confirmed via
+# `systemctl status` showing "user-100000.slice" for defaultuser on this
+# device - if your device's user has a different UID, adjust this (and
+# check with `id -u <username>` if unsure).
+Environment=XDG_RUNTIME_DIR=/run/user/100000
+# A system-level service doesn't automatically have a valid session
+# D-Bus connection either (separate from XDG_RUNTIME_DIR/PulseAudio
+# above) - QDBusConnection::sessionBus() needs DBUS_SESSION_BUS_ADDRESS
+# explicitly set. Confirmed by reading it directly from an actual
+# running session process (lipstick) via
+# `cat /proc/<pid>/environ | tr '\0' '\n' | grep DBUS_SESSION_BUS_ADDRESS`
+# rather than guessing a standard path - without this, the profiled
+# D-Bus calls (silent-mode-after-prayer) failed with
+# "could not reach profiled", confirmed via on-device testing.
+Environment=DBUS_SESSION_BUS_ADDRESS=unix:path=/run/user/100000/dbus/user_bus_socket
+# Without this, Qt auto-detects it's running under systemd (via the
+# JOURNAL_STREAM env var systemd sets for every service) and routes
+# qDebug()/qWarning() straight into the systemd journal instead of
+# stdout/stderr - which then needs journalctl (and its permission
+# quirks on-device) to read at all. This forces plain console output
+# instead, which the shell redirection below can actually capture.
+Environment=QT_LOGGING_TO_CONSOLE=1
+# Appending (not overwriting) while actively debugging this, so a
+# trigger's actual log output survives past the next minute's run
+# overwriting it - a real problem we hit once already (the run that
+# attempted to activate silent mode had already been overwritten by
+# the time it was checked). Once things are confirmed reliably
+# working, consider switching back to ">" (overwrite) or adding
+# rotation, since this will otherwise grow unboundedly over real
+# long-term use (it runs every minute).
+ExecStart=/bin/sh -c '/usr/bin/harbour-thakir --check-and-play >> /home/defaultuser/.cache/harbour-thakir-check.log 2>&1'

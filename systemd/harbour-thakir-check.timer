@@ -1,0 +1,22 @@
+[Unit]
+Description=Periodic athan check (wakes device from suspend via RTC)
+
+[Timer]
+# Every minute. Paired with a CHECK_TOLERANCE_SECONDS=180 (3 min) window
+# in main.cpp's runCheckAndPlayMode(), so several consecutive wakes all
+# fall inside the tolerance for any given prayer - one missed/delayed
+# wake won't silently skip it. (Was every 5 min / 10 min tolerance
+# originally - tightened for closer-to-exact timing once the underlying
+# mechanism was confirmed reliable via a real fajr-to-dhuhr test.)
+OnCalendar=minutely
+# The key fix this whole redesign is about: WakeSystem=true uses the
+# hardware RTC alarm to wake the actual system from suspend, at a level
+# below whatever software session-freezing defeated an earlier
+# long-running-daemon-plus-keepalive approach (confirmed by real
+# overnight testing - see README.md / git history). Requires this to be
+# a SYSTEM-level timer, not a --user one.
+WakeSystem=true
+AccuracySec=10s
+
+[Install]
+WantedBy=timers.target

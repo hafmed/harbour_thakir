@@ -1,0 +1,819 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   viewBox="0 0 1080 1920"
+   width="100%"
+   height="100%"
+   preserveAspectRatio="none"
+   version="1.1"
+   id="svg92"
+   sodipodi:docname="bg_mosque_sunset.svg"
+   inkscape:version="1.4.4 (dcaf3e7, 2026-05-05)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview92"
+     pagecolor="#505050"
+     bordercolor="#eeeeee"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#505050"
+     inkscape:zoom="0.53106666"
+     inkscape:cx="506.52775"
+     inkscape:cy="356.82903"
+     inkscape:window-width="1920"
+     inkscape:window-height="987"
+     inkscape:window-x="-9"
+     inkscape:window-y="-9"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="g92" />
+  <defs
+     id="defs14">
+    <linearGradient
+       id="sunsetSky"
+       x1="50%"
+       y1="0%"
+       x2="50%"
+       y2="100%">
+      <stop
+         offset="0%"
+         stop-color="#b66012"
+         id="stop1" />
+      <stop
+         offset="25%"
+         stop-color="#cf751a"
+         id="stop2" />
+      <stop
+         offset="50%"
+         stop-color="#e08e28"
+         id="stop3" />
+      <stop
+         offset="68%"
+         stop-color="#efa534"
+         id="stop4" />
+      <stop
+         offset="85%"
+         stop-color="#f8be4e"
+         id="stop5" />
+      <stop
+         offset="100%"
+         stop-color="#d47c16"
+         id="stop6" />
+    </linearGradient>
+    <radialGradient
+       id="sunGlow"
+       cx="72%"
+       cy="58%"
+       r="45%">
+      <stop
+         offset="0%"
+         stop-color="#fff8d6"
+         stop-opacity="1"
+         id="stop7" />
+      <stop
+         offset="12%"
+         stop-color="#ffeaa3"
+         stop-opacity="0.9"
+         id="stop8" />
+      <stop
+         offset="35%"
+         stop-color="#f7bb45"
+         stop-opacity="0.5"
+         id="stop9" />
+      <stop
+         offset="70%"
+         stop-color="#e28c22"
+         stop-opacity="0.15"
+         id="stop10" />
+      <stop
+         offset="100%"
+         stop-color="#cf751a"
+         stop-opacity="0"
+         id="stop11" />
+    </radialGradient>
+    <linearGradient
+       id="silhouetteGrad"
+       x1="50%"
+       y1="0%"
+       x2="50%"
+       y2="100%">
+      <stop
+         offset="0%"
+         stop-color="#140a04"
+         id="stop12" />
+      <stop
+         offset="40%"
+         stop-color="#090402"
+         id="stop13" />
+      <stop
+         offset="100%"
+         stop-color="#020101"
+         id="stop14" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#silhouetteGrad"
+       id="linearGradient96"
+       x1="373.22827"
+       y1="2606.1865"
+       x2="371.23105"
+       y2="2776.1335"
+       gradientTransform="scale(1.8856181,0.53033009)"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#silhouetteGrad"
+       id="linearGradient97"
+       x1="873.05339"
+       y1="769.71238"
+       x2="873.05341"
+       y2="1180.4398"
+       gradientTransform="scale(0.80178373,1.2472191)"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#silhouetteGrad"
+       id="linearGradient98"
+       x1="2886.1739"
+       y1="212.21867"
+       x2="2886.1738"
+       y2="232.8342"
+       gradientTransform="scale(0.24253563,4.1231056)"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#silhouetteGrad"
+       id="linearGradient99"
+       x1="1314.808"
+       y1="879.52007"
+       x2="1319.8606"
+       y2="1121.4679"
+       gradientTransform="scale(0.74535599,1.3416408)"
+       gradientUnits="userSpaceOnUse" />
+  </defs>
+  <rect
+     width="1080"
+     height="1920"
+     fill="url(#sunsetSky)"
+     id="rect14" />
+  <rect
+     width="1080"
+     height="1920"
+     fill="url(#sunGlow)"
+     id="rect15" />
+  <circle
+     cx="780"
+     cy="1120"
+     r="42"
+     fill="#ffffff"
+     id="circle15" />
+  <circle
+     cx="780"
+     cy="1120"
+     r="65"
+     fill="#fff5cc"
+     opacity="0.6"
+     id="circle16" />
+  <g
+     opacity="0.08"
+     stroke="#ffffff"
+     stroke-width="1.2"
+     fill="none"
+     id="g58">
+    <polygon
+       points="80,90 88,112 110,120 88,128 80,150 72,128 50,120 72,112"
+       id="polygon16" />
+    <circle
+       cx="80"
+       cy="120"
+       r="40"
+       id="circle17" />
+    <polygon
+       points="240,90 248,112 270,120 248,128 240,150 232,128 210,120 232,112"
+       id="polygon17" />
+    <circle
+       cx="240"
+       cy="120"
+       r="40"
+       id="circle18" />
+    <polygon
+       points="400,90 408,112 430,120 408,128 400,150 392,128 370,120 392,112"
+       id="polygon18" />
+    <circle
+       cx="400"
+       cy="120"
+       r="40"
+       id="circle19" />
+    <polygon
+       points="560,90 568,112 590,120 568,128 560,150 552,128 530,120 552,112"
+       id="polygon19" />
+    <circle
+       cx="560"
+       cy="120"
+       r="40"
+       id="circle20" />
+    <polygon
+       points="720,90 728,112 750,120 728,128 720,150 712,128 690,120 712,112"
+       id="polygon20" />
+    <circle
+       cx="720"
+       cy="120"
+       r="40"
+       id="circle21" />
+    <polygon
+       points="880,90 888,112 910,120 888,128 880,150 872,128 850,120 872,112"
+       id="polygon21" />
+    <circle
+       cx="880"
+       cy="120"
+       r="40"
+       id="circle22" />
+    <polygon
+       points="1040,90 1048,112 1070,120 1048,128 1040,150 1032,128 1010,120 1032,112"
+       id="polygon22" />
+    <circle
+       cx="1040"
+       cy="120"
+       r="40"
+       id="circle23" />
+    <polygon
+       points="80,250 88,272 110,280 88,288 80,310 72,288 50,280 72,272"
+       id="polygon23" />
+    <circle
+       cx="80"
+       cy="280"
+       r="40"
+       id="circle24" />
+    <polygon
+       points="240,250 248,272 270,280 248,288 240,310 232,288 210,280 232,272"
+       id="polygon24" />
+    <circle
+       cx="240"
+       cy="280"
+       r="40"
+       id="circle25" />
+    <polygon
+       points="400,250 408,272 430,280 408,288 400,310 392,288 370,280 392,272"
+       id="polygon25" />
+    <circle
+       cx="400"
+       cy="280"
+       r="40"
+       id="circle26" />
+    <polygon
+       points="560,250 568,272 590,280 568,288 560,310 552,288 530,280 552,272"
+       id="polygon26" />
+    <circle
+       cx="560"
+       cy="280"
+       r="40"
+       id="circle27" />
+    <polygon
+       points="720,250 728,272 750,280 728,288 720,310 712,288 690,280 712,272"
+       id="polygon27" />
+    <circle
+       cx="720"
+       cy="280"
+       r="40"
+       id="circle28" />
+    <polygon
+       points="880,250 888,272 910,280 888,288 880,310 872,288 850,280 872,272"
+       id="polygon28" />
+    <circle
+       cx="880"
+       cy="280"
+       r="40"
+       id="circle29" />
+    <polygon
+       points="1040,250 1048,272 1070,280 1048,288 1040,310 1032,288 1010,280 1032,272"
+       id="polygon29" />
+    <circle
+       cx="1040"
+       cy="280"
+       r="40"
+       id="circle30" />
+    <polygon
+       points="80,410 88,432 110,440 88,448 80,470 72,448 50,440 72,432"
+       id="polygon30" />
+    <circle
+       cx="80"
+       cy="440"
+       r="40"
+       id="circle31" />
+    <polygon
+       points="240,410 248,432 270,440 248,448 240,470 232,448 210,440 232,432"
+       id="polygon31" />
+    <circle
+       cx="240"
+       cy="440"
+       r="40"
+       id="circle32" />
+    <polygon
+       points="400,410 408,432 430,440 408,448 400,470 392,448 370,440 392,432"
+       id="polygon32" />
+    <circle
+       cx="400"
+       cy="440"
+       r="40"
+       id="circle33" />
+    <polygon
+       points="560,410 568,432 590,440 568,448 560,470 552,448 530,440 552,432"
+       id="polygon33" />
+    <circle
+       cx="560"
+       cy="440"
+       r="40"
+       id="circle34" />
+    <polygon
+       points="720,410 728,432 750,440 728,448 720,470 712,448 690,440 712,432"
+       id="polygon34" />
+    <circle
+       cx="720"
+       cy="440"
+       r="40"
+       id="circle35" />
+    <polygon
+       points="880,410 888,432 910,440 888,448 880,470 872,448 850,440 872,432"
+       id="polygon35" />
+    <circle
+       cx="880"
+       cy="440"
+       r="40"
+       id="circle36" />
+    <polygon
+       points="1040,410 1048,432 1070,440 1048,448 1040,470 1032,448 1010,440 1032,432"
+       id="polygon36" />
+    <circle
+       cx="1040"
+       cy="440"
+       r="40"
+       id="circle37" />
+    <polygon
+       points="80,570 88,592 110,600 88,608 80,630 72,608 50,600 72,592"
+       id="polygon37" />
+    <circle
+       cx="80"
+       cy="600"
+       r="40"
+       id="circle38" />
+    <polygon
+       points="240,570 248,592 270,600 248,608 240,630 232,608 210,600 232,592"
+       id="polygon38" />
+    <circle
+       cx="240"
+       cy="600"
+       r="40"
+       id="circle39" />
+    <polygon
+       points="400,570 408,592 430,600 408,608 400,630 392,608 370,600 392,592"
+       id="polygon39" />
+    <circle
+       cx="400"
+       cy="600"
+       r="40"
+       id="circle40" />
+    <polygon
+       points="560,570 568,592 590,600 568,608 560,630 552,608 530,600 552,592"
+       id="polygon40" />
+    <circle
+       cx="560"
+       cy="600"
+       r="40"
+       id="circle41" />
+    <polygon
+       points="720,570 728,592 750,600 728,608 720,630 712,608 690,600 712,592"
+       id="polygon41" />
+    <circle
+       cx="720"
+       cy="600"
+       r="40"
+       id="circle42" />
+    <polygon
+       points="880,570 888,592 910,600 888,608 880,630 872,608 850,600 872,592"
+       id="polygon42" />
+    <circle
+       cx="880"
+       cy="600"
+       r="40"
+       id="circle43" />
+    <polygon
+       points="1040,570 1048,592 1070,600 1048,608 1040,630 1032,608 1010,600 1032,592"
+       id="polygon43" />
+    <circle
+       cx="1040"
+       cy="600"
+       r="40"
+       id="circle44" />
+    <polygon
+       points="80,730 88,752 110,760 88,768 80,790 72,768 50,760 72,752"
+       id="polygon44" />
+    <circle
+       cx="80"
+       cy="760"
+       r="40"
+       id="circle45" />
+    <polygon
+       points="240,730 248,752 270,760 248,768 240,790 232,768 210,760 232,752"
+       id="polygon45" />
+    <circle
+       cx="240"
+       cy="760"
+       r="40"
+       id="circle46" />
+    <polygon
+       points="400,730 408,752 430,760 408,768 400,790 392,768 370,760 392,752"
+       id="polygon46" />
+    <circle
+       cx="400"
+       cy="760"
+       r="40"
+       id="circle47" />
+    <polygon
+       points="560,730 568,752 590,760 568,768 560,790 552,768 530,760 552,752"
+       id="polygon47" />
+    <circle
+       cx="560"
+       cy="760"
+       r="40"
+       id="circle48" />
+    <polygon
+       points="720,730 728,752 750,760 728,768 720,790 712,768 690,760 712,752"
+       id="polygon48" />
+    <circle
+       cx="720"
+       cy="760"
+       r="40"
+       id="circle49" />
+    <polygon
+       points="880,730 888,752 910,760 888,768 880,790 872,768 850,760 872,752"
+       id="polygon49" />
+    <circle
+       cx="880"
+       cy="760"
+       r="40"
+       id="circle50" />
+    <polygon
+       points="1040,730 1048,752 1070,760 1048,768 1040,790 1032,768 1010,760 1032,752"
+       id="polygon50" />
+    <circle
+       cx="1040"
+       cy="760"
+       r="40"
+       id="circle51" />
+    <polygon
+       points="80,890 88,912 110,920 88,928 80,950 72,928 50,920 72,912"
+       id="polygon51" />
+    <circle
+       cx="80"
+       cy="920"
+       r="40"
+       id="circle52" />
+    <polygon
+       points="240,890 248,912 270,920 248,928 240,950 232,928 210,920 232,912"
+       id="polygon52" />
+    <circle
+       cx="240"
+       cy="920"
+       r="40"
+       id="circle53" />
+    <polygon
+       points="400,890 408,912 430,920 408,928 400,950 392,928 370,920 392,912"
+       id="polygon53" />
+    <circle
+       cx="400"
+       cy="920"
+       r="40"
+       id="circle54" />
+    <polygon
+       points="560,890 568,912 590,920 568,928 560,950 552,928 530,920 552,912"
+       id="polygon54" />
+    <circle
+       cx="560"
+       cy="920"
+       r="40"
+       id="circle55" />
+    <polygon
+       points="720,890 728,912 750,920 728,928 720,950 712,928 690,920 712,912"
+       id="polygon55" />
+    <circle
+       cx="720"
+       cy="920"
+       r="40"
+       id="circle56" />
+    <polygon
+       points="880,890 888,912 910,920 888,928 880,950 872,928 850,920 872,912"
+       id="polygon56" />
+    <circle
+       cx="880"
+       cy="920"
+       r="40"
+       id="circle57" />
+    <polygon
+       points="1040,890 1048,912 1070,920 1048,928 1040,950 1032,928 1010,920 1032,912"
+       id="polygon57" />
+    <circle
+       cx="1040"
+       cy="920"
+       r="40"
+       id="circle58" />
+  </g>
+  <g
+     fill="url(#silhouetteGrad)"
+     id="g92">
+    <!-- Top left tree canopy -->
+    <path
+       d="M 0,0 L 220,0               C 210,40 240,70 210,110 C 190,140 230,160 200,210              C 170,240 205,270 175,320 C 150,350 170,390 140,430              C 120,460 145,500 115,550 C 90,590 110,630 80,680              C 65,710 40,750 0,780 Z"
+       id="path58" />
+    <path
+       d="M 180,90 Q 260,110 310,130 Q 270,145 230,140 Q 280,170 300,200 Q 240,195 190,185 Z"
+       id="path59" />
+    <path
+       d="M 160,200 Q 230,225 280,240 Q 240,260 200,250 Q 250,285 270,320 Q 220,305 170,290 Z"
+       id="path60" />
+    <path
+       d="M 130,340 Q 190,370 240,395 Q 190,410 160,405 Q 200,440 220,475 Q 170,455 130,440 Z"
+       id="path61" />
+    <path
+       d="M 100,490 Q 150,520 190,545 Q 150,560 120,555 Q 150,585 170,620 Q 130,605 90,590 Z"
+       id="path62" />
+    <!-- Minaret Spire & Crescent -->
+    <line
+       x1="360"
+       y1="210"
+       x2="360"
+       y2="280"
+       stroke="#090402"
+       stroke-width="4"
+       id="line62" />
+    <circle
+       cx="360"
+       cy="225"
+       r="7"
+       id="circle62" />
+    <circle
+       cx="360"
+       cy="250"
+       r="10"
+       id="circle63" />
+    <!-- Onion Dome Cap of Minaret -->
+    <path
+       d="M 322,430               C 315,370 335,305 360,275               C 385,305 405,370 398,430 Z"
+       id="path63" />
+    <rect
+       x="312"
+       y="430"
+       width="96"
+       height="15"
+       rx="3"
+       id="rect63" />
+    <!-- Open Arched Gallery / Pavilion (Balcony under dome) -->
+    <!-- Cornice -->
+    <rect
+       x="316"
+       y="445"
+       width="88"
+       height="12"
+       id="rect64" />
+    <!-- Arched pillars showing light behind -->
+    <rect
+       x="318"
+       y="457"
+       width="12"
+       height="135"
+       id="rect65" />
+    <rect
+       x="345"
+       y="457"
+       width="10"
+       height="135"
+       id="rect66" />
+    <rect
+       x="365"
+       y="457"
+       width="10"
+       height="135"
+       id="rect67" />
+    <rect
+       x="390"
+       y="457"
+       width="12"
+       height="135"
+       id="rect68" />
+    <!-- Small arches over openings -->
+    <path
+       d="M 318,475 Q 340,455 345,475 Z"
+       id="path68" />
+    <path
+       d="M 345,475 Q 355,455 365,475 Z"
+       id="path69" />
+    <path
+       d="M 365,475 Q 377,455 390,475 Z"
+       id="path70" />
+    <!-- Main Balcony (Muezzin Gallery) with decorative corbels -->
+    <rect
+       x="308"
+       y="592"
+       width="104"
+       height="24"
+       rx="4"
+       id="rect70" />
+    <path
+       d="M 308,616 L 324,665 L 396,665 L 412,616 Z"
+       id="path71" />
+    <!-- Main Minaret Shaft -->
+    <rect
+       x="324"
+       y="665"
+       width="72"
+       height="380"
+       id="rect71" />
+    <!-- Intermediate Decorative Band & Molding -->
+    <rect
+       x="318"
+       y="1045"
+       width="84"
+       height="20"
+       rx="3"
+       id="rect72" />
+    <path
+       d="M 318,1065 L 328,1105 L 392,1105 L 402,1065 Z"
+       id="path72" />
+    <!-- Lower Minaret Shaft extending into trees/ground -->
+    <rect
+       x="326"
+       y="1105"
+       width="68"
+       height="600"
+       id="rect73" />
+    <!-- Ornamental Finial Spire atop Main Dome -->
+    <line
+       x1="700"
+       y1="875"
+       x2="700"
+       y2="960"
+       stroke="#090402"
+       stroke-width="5"
+       id="line73"
+       style="fill:url(#linearGradient98)" />
+    <circle
+       cx="700"
+       cy="895"
+       r="8"
+       id="circle73" />
+    <circle
+       cx="700"
+       cy="915"
+       r="12"
+       id="circle74" />
+    <circle
+       cx="700"
+       cy="935"
+       r="15"
+       id="circle75" />
+    <path
+       d="M 684,950 L 700,935 L 716,950 Z"
+       id="path75" />
+    <!-- Main Mosque Dome -->
+    <path
+       d="M 565,1380               L 565,1220              C 565,1080 635,995 700,960              C 765,995 835,1080 835,1220              L 835,1380 Z"
+       id="path76"
+       style="fill:url(#linearGradient97)" />
+    <!-- Parapet with Islamic Crenellations/Merlons below dome drum -->
+    <rect
+       x="540"
+       y="1367.0751"
+       width="320.00003"
+       height="140.84116"
+       id="rect76"
+       style="fill:url(#linearGradient96)"
+       ry="35.777054" />
+    <rect
+       x="550"
+       y="1305"
+       width="12"
+       height="16"
+       rx="2"
+       id="rect77" />
+    <rect
+       x="572"
+       y="1305"
+       width="12"
+       height="16"
+       rx="2"
+       id="rect78" />
+    <rect
+       x="594"
+       y="1305"
+       width="12"
+       height="16"
+       rx="2"
+       id="rect79" />
+    <rect
+       x="616"
+       y="1305"
+       width="12"
+       height="16"
+       rx="2"
+       id="rect80" />
+    <rect
+       x="638"
+       y="1305"
+       width="12"
+       height="16"
+       rx="2"
+       id="rect81" />
+    <rect
+       x="660"
+       y="1305"
+       width="12"
+       height="16"
+       rx="2"
+       id="rect82" />
+    <rect
+       x="682"
+       y="1305"
+       width="12"
+       height="16"
+       rx="2"
+       id="rect83" />
+    <rect
+       x="704"
+       y="1305"
+       width="17.649008"
+       height="64.958076"
+       rx="2"
+       id="rect84" />
+    <rect
+       x="726"
+       y="1305"
+       width="12"
+       height="16"
+       rx="2"
+       id="rect85" />
+    <rect
+       x="748"
+       y="1305"
+       width="12"
+       height="16"
+       rx="2"
+       id="rect86" />
+    <rect
+       x="770"
+       y="1305"
+       width="12"
+       height="16"
+       rx="2"
+       id="rect87" />
+    <rect
+       x="792"
+       y="1305"
+       width="12"
+       height="16"
+       rx="2"
+       id="rect88" />
+    <rect
+       x="814"
+       y="1305"
+       width="12"
+       height="16"
+       rx="2"
+       id="rect89" />
+    <rect
+       x="836"
+       y="1305"
+       width="12"
+       height="16"
+       rx="2"
+       id="rect90" />
+    <line
+       x1="980"
+       y1="1135"
+       x2="980"
+       y2="1180"
+       stroke="#090402"
+       stroke-width="4"
+       id="line90" />
+    <circle
+       cx="980"
+       cy="1160"
+       r="7"
+       id="circle90" />
+    <path
+       d="m 905,1450 v -130 c 0,-80 40,-120 75,-140 35,20 75,60 75,140 l 3.766,190.2561 z"
+       id="path90"
+       style="fill:url(#linearGradient99)"
+       sodipodi:nodetypes="cscscc" />
+    <!-- Bottom Tree Canopy & Horizon Landscape -->
+    <path
+       d="M 0,1650               C 60,1580 120,1540 180,1570               C 240,1510 320,1470 380,1520               C 450,1420 530,1380 620,1450               C 700,1390 780,1410 860,1460               C 930,1430 1010,1480 1080,1520               L 1080,1920 L 0,1920 Z"
+       id="path91" />
+    <!-- Dense foreground foliage for realistic organic silhouettes -->
+    <path
+       d="M 0,1720               Q 90,1660 170,1710               Q 280,1630 390,1690               Q 510,1590 640,1670               Q 760,1610 880,1680               Q 980,1620 1080,1660               L 1080,1920 L 0,1920 Z"
+       id="path92" />
+  </g>
+</svg>

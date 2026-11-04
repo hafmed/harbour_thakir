@@ -1,0 +1,23 @@
+[Desktop Entry]
+Type=Application
+Icon=harbour-thakir
+Exec=harbour-thakir
+Name=Thakir Athan
+Name[en]=Thakir Athan
+Name[ar]=ذكر أذان
+Name[fr]=Thakir Athan
+Name[tr]=Zakir Ezan Vakitleri
+X-DBusActivatable=true
+X-Nemo-Application-Type=silica-qt5
+X-Nemo-Single-Instance=yes
+X-Maemo-Service=org.hafsoftdz.harbour-thakir
+X-Maemo-Object-Path=/
+X-Maemo-Method=org.hafsoftdz.harbour_thakir.open
+
+[X-Sailjail]
+Permissions=Audio;Internet;Location;Sensors
+OrganizationName=org.hafsoftdz
+ApplicationName=harbour-thakir
+ExecDBus=/usr/bin/harbour-thakir
+
+

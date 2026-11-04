@@ -1,0 +1,12 @@
+﻿<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="64" height="64" fill="none" stroke="#89d4ff" stroke-width="2.8" stroke-linecap="round" stroke-linejoin="round">
+  <!-- Book pages -->
+  <path d="M 32,24 C 24,18 14,19 8,22 L 8,40 C 14,37 24,36 32,42 C 40,36 50,37 56,40 L 56,22 C 50,19 40,18 32,24 Z" />
+  <path d="M 32,24 L 32,42" />
+  <path d="M 12,25 C 18,22 26,22 31,26" />
+  <path d="M 52,25 C 46,22 38,22 33,26" />
+  <!-- Rehal stand (crossing legs) -->
+  <path d="M 18,39 L 10,52" />
+  <path d="M 46,39 L 54,52" />
+  <path d="M 23,41 L 41,52" />
+  <path d="M 41,41 L 23,52" />
+</svg>

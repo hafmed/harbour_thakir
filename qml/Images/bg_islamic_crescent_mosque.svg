@@ -1,0 +1,336 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1080 1920" width="100%" height="100%" preserveAspectRatio="none">
+<defs>
+
+        <linearGradient id="nightSky" x1="50%" y1="0%" x2="50%" y2="100%">
+            <stop offset="0%" stop-color="#0b172a"/>
+            <stop offset="35%" stop-color="#0f223d"/>
+            <stop offset="70%" stop-color="#081526"/>
+            <stop offset="100%" stop-color="#02060c"/>
+        </linearGradient>
+        <radialGradient id="moonGlow" cx="50%" cy="28%" r="40%">
+            <stop offset="0%" stop-color="#fae7a5" stop-opacity="0.4"/>
+            <stop offset="40%" stop-color="#d4a33d" stop-opacity="0.12"/>
+            <stop offset="100%" stop-color="#000000" stop-opacity="0"/>
+        </radialGradient>
+        <linearGradient id="goldSky" x1="0%" y1="0%" x2="100%" y2="100%">
+            <stop offset="0%" stop-color="#fae7a5"/>
+            <stop offset="40%" stop-color="#d4a33d"/>
+            <stop offset="80%" stop-color="#f5dc88"/>
+            <stop offset="100%" stop-color="#9a6e1e"/>
+        </linearGradient>
+        <linearGradient id="mosqueFill" x1="50%" y1="0%" x2="50%" y2="100%">
+            <stop offset="0%" stop-color="#142b47" stop-opacity="0.5"/>
+            <stop offset="100%" stop-color="#050e18" stop-opacity="0.85"/>
+        </linearGradient>
+    
+</defs>
+<rect width="1080" height="1920" fill="url(#nightSky)"/>
+<circle cx="540.0" cy="537.6" r="550" fill="url(#moonGlow)"/>
+<g opacity="0.18" stroke="url(#goldSky)" stroke-width="1.0" fill="none">
+<polygon points="60,45 70,70 95,80 70,90 60,115 50,90 25,80 50,70"/>
+<circle cx="60" cy="80" r="45" opacity="0.4"/>
+<circle cx="60" cy="80" r="2" fill="#fae7a5" opacity="0.6"/>
+<polygon points="200,45 210,70 235,80 210,90 200,115 190,90 165,80 190,70"/>
+<circle cx="200" cy="80" r="45" opacity="0.4"/>
+<circle cx="200" cy="80" r="2" fill="#fae7a5" opacity="0.6"/>
+<polygon points="340,45 350,70 375,80 350,90 340,115 330,90 305,80 330,70"/>
+<circle cx="340" cy="80" r="45" opacity="0.4"/>
+<circle cx="340" cy="80" r="2" fill="#fae7a5" opacity="0.6"/>
+<polygon points="480,45 490,70 515,80 490,90 480,115 470,90 445,80 470,70"/>
+<circle cx="480" cy="80" r="45" opacity="0.4"/>
+<circle cx="480" cy="80" r="2" fill="#fae7a5" opacity="0.6"/>
+<polygon points="620,45 630,70 655,80 630,90 620,115 610,90 585,80 610,70"/>
+<circle cx="620" cy="80" r="45" opacity="0.4"/>
+<circle cx="620" cy="80" r="2" fill="#fae7a5" opacity="0.6"/>
+<polygon points="760,45 770,70 795,80 770,90 760,115 750,90 725,80 750,70"/>
+<circle cx="760" cy="80" r="45" opacity="0.4"/>
+<circle cx="760" cy="80" r="2" fill="#fae7a5" opacity="0.6"/>
+<polygon points="900,45 910,70 935,80 910,90 900,115 890,90 865,80 890,70"/>
+<circle cx="900" cy="80" r="45" opacity="0.4"/>
+<circle cx="900" cy="80" r="2" fill="#fae7a5" opacity="0.6"/>
+<polygon points="1040,45 1050,70 1075,80 1050,90 1040,115 1030,90 1005,80 1030,70"/>
+<circle cx="1040" cy="80" r="45" opacity="0.4"/>
+<circle cx="1040" cy="80" r="2" fill="#fae7a5" opacity="0.6"/>
+<polygon points="60,185 70,210 95,220 70,230 60,255 50,230 25,220 50,210"/>
+<circle cx="60" cy="220" r="45" opacity="0.4"/>
+<circle cx="60" cy="220" r="2" fill="#fae7a5" opacity="0.6"/>
+<polygon points="200,185 210,210 235,220 210,230 200,255 190,230 165,220 190,210"/>
+<circle cx="200" cy="220" r="45" opacity="0.4"/>
+<circle cx="200" cy="220" r="2" fill="#fae7a5" opacity="0.6"/>
+<polygon points="340,185 350,210 375,220 350,230 340,255 330,230 305,220 330,210"/>
+<circle cx="340" cy="220" r="45" opacity="0.4"/>
+<circle cx="340" cy="220" r="2" fill="#fae7a5" opacity="0.6"/>
+<polygon points="480,185 490,210 515,220 490,230 480,255 470,230 445,220 470,210"/>
+<circle cx="480" cy="220" r="45" opacity="0.4"/>
+<circle cx="480" cy="220" r="2" fill="#fae7a5" opacity="0.6"/>
+<polygon points="620,185 630,210 655,220 630,230 620,255 610,230 585,220 610,210"/>
+<circle cx="620" cy="220" r="45" opacity="0.4"/>
+<circle cx="620" cy="220" r="2" fill="#fae7a5" opacity="0.6"/>
+<polygon points="760,185 770,210 795,220 770,230 760,255 750,230 725,220 750,210"/>
+<circle cx="760" cy="220" r="45" opacity="0.4"/>
+<circle cx="760" cy="220" r="2" fill="#fae7a5" opacity="0.6"/>
+<polygon points="900,185 910,210 935,220 910,230 900,255 890,230 865,220 890,210"/>
+<circle cx="900" cy="220" r="45" opacity="0.4"/>
+<circle cx="900" cy="220" r="2" fill="#fae7a5" opacity="0.6"/>
+<polygon points="1040,185 1050,210 1075,220 1050,230 1040,255 1030,230 1005,220 1030,210"/>
+<circle cx="1040" cy="220" r="45" opacity="0.4"/>
+<circle cx="1040" cy="220" r="2" fill="#fae7a5" opacity="0.6"/>
+<polygon points="60,325 70,350 95,360 70,370 60,395 50,370 25,360 50,350"/>
+<circle cx="60" cy="360" r="45" opacity="0.4"/>
+<circle cx="60" cy="360" r="2" fill="#fae7a5" opacity="0.6"/>
+<polygon points="200,325 210,350 235,360 210,370 200,395 190,370 165,360 190,350"/>
+<circle cx="200" cy="360" r="45" opacity="0.4"/>
+<circle cx="200" cy="360" r="2" fill="#fae7a5" opacity="0.6"/>
+<polygon points="340,325 350,350 375,360 350,370 340,395 330,370 305,360 330,350"/>
+<circle cx="340" cy="360" r="45" opacity="0.4"/>
+<circle cx="340" cy="360" r="2" fill="#fae7a5" opacity="0.6"/>
+<polygon points="480,325 490,350 515,360 490,370 480,395 470,370 445,360 470,350"/>
+<circle cx="480" cy="360" r="45" opacity="0.4"/>
+<circle cx="480" cy="360" r="2" fill="#fae7a5" opacity="0.6"/>
+<polygon points="620,325 630,350 655,360 630,370 620,395 610,370 585,360 610,350"/>
+<circle cx="620" cy="360" r="45" opacity="0.4"/>
+<circle cx="620" cy="360" r="2" fill="#fae7a5" opacity="0.6"/>
+<polygon points="760,325 770,350 795,360 770,370 760,395 750,370 725,360 750,350"/>
+<circle cx="760" cy="360" r="45" opacity="0.4"/>
+<circle cx="760" cy="360" r="2" fill="#fae7a5" opacity="0.6"/>
+<polygon points="900,325 910,350 935,360 910,370 900,395 890,370 865,360 890,350"/>
+<circle cx="900" cy="360" r="45" opacity="0.4"/>
+<circle cx="900" cy="360" r="2" fill="#fae7a5" opacity="0.6"/>
+<polygon points="1040,325 1050,350 1075,360 1050,370 1040,395 1030,370 1005,360 1030,350"/>
+<circle cx="1040" cy="360" r="45" opacity="0.4"/>
+<circle cx="1040" cy="360" r="2" fill="#fae7a5" opacity="0.6"/>
+<polygon points="60,465 70,490 95,500 70,510 60,535 50,510 25,500 50,490"/>
+<circle cx="60" cy="500" r="45" opacity="0.4"/>
+<circle cx="60" cy="500" r="2" fill="#fae7a5" opacity="0.6"/>
+<polygon points="200,465 210,490 235,500 210,510 200,535 190,510 165,500 190,490"/>
+<circle cx="200" cy="500" r="45" opacity="0.4"/>
+<circle cx="200" cy="500" r="2" fill="#fae7a5" opacity="0.6"/>
+<polygon points="340,465 350,490 375,500 350,510 340,535 330,510 305,500 330,490"/>
+<circle cx="340" cy="500" r="45" opacity="0.4"/>
+<circle cx="340" cy="500" r="2" fill="#fae7a5" opacity="0.6"/>
+<polygon points="480,465 490,490 515,500 490,510 480,535 470,510 445,500 470,490"/>
+<circle cx="480" cy="500" r="45" opacity="0.4"/>
+<circle cx="480" cy="500" r="2" fill="#fae7a5" opacity="0.6"/>
+<polygon points="620,465 630,490 655,500 630,510 620,535 610,510 585,500 610,490"/>
+<circle cx="620" cy="500" r="45" opacity="0.4"/>
+<circle cx="620" cy="500" r="2" fill="#fae7a5" opacity="0.6"/>
+<polygon points="760,465 770,490 795,500 770,510 760,535 750,510 725,500 750,490"/>
+<circle cx="760" cy="500" r="45" opacity="0.4"/>
+<circle cx="760" cy="500" r="2" fill="#fae7a5" opacity="0.6"/>
+<polygon points="900,465 910,490 935,500 910,510 900,535 890,510 865,500 890,490"/>
+<circle cx="900" cy="500" r="45" opacity="0.4"/>
+<circle cx="900" cy="500" r="2" fill="#fae7a5" opacity="0.6"/>
+<polygon points="1040,465 1050,490 1075,500 1050,510 1040,535 1030,510 1005,500 1030,490"/>
+<circle cx="1040" cy="500" r="45" opacity="0.4"/>
+<circle cx="1040" cy="500" r="2" fill="#fae7a5" opacity="0.6"/>
+<polygon points="60,605 70,630 95,640 70,650 60,675 50,650 25,640 50,630"/>
+<circle cx="60" cy="640" r="45" opacity="0.4"/>
+<circle cx="60" cy="640" r="2" fill="#fae7a5" opacity="0.6"/>
+<polygon points="200,605 210,630 235,640 210,650 200,675 190,650 165,640 190,630"/>
+<circle cx="200" cy="640" r="45" opacity="0.4"/>
+<circle cx="200" cy="640" r="2" fill="#fae7a5" opacity="0.6"/>
+<polygon points="340,605 350,630 375,640 350,650 340,675 330,650 305,640 330,630"/>
+<circle cx="340" cy="640" r="45" opacity="0.4"/>
+<circle cx="340" cy="640" r="2" fill="#fae7a5" opacity="0.6"/>
+<polygon points="480,605 490,630 515,640 490,650 480,675 470,650 445,640 470,630"/>
+<circle cx="480" cy="640" r="45" opacity="0.4"/>
+<circle cx="480" cy="640" r="2" fill="#fae7a5" opacity="0.6"/>
+<polygon points="620,605 630,630 655,640 630,650 620,675 610,650 585,640 610,630"/>
+<circle cx="620" cy="640" r="45" opacity="0.4"/>
+<circle cx="620" cy="640" r="2" fill="#fae7a5" opacity="0.6"/>
+<polygon points="760,605 770,630 795,640 770,650 760,675 750,650 725,640 750,630"/>
+<circle cx="760" cy="640" r="45" opacity="0.4"/>
+<circle cx="760" cy="640" r="2" fill="#fae7a5" opacity="0.6"/>
+<polygon points="900,605 910,630 935,640 910,650 900,675 890,650 865,640 890,630"/>
+<circle cx="900" cy="640" r="45" opacity="0.4"/>
+<circle cx="900" cy="640" r="2" fill="#fae7a5" opacity="0.6"/>
+<polygon points="1040,605 1050,630 1075,640 1050,650 1040,675 1030,650 1005,640 1030,630"/>
+<circle cx="1040" cy="640" r="45" opacity="0.4"/>
+<circle cx="1040" cy="640" r="2" fill="#fae7a5" opacity="0.6"/>
+<polygon points="60,745 70,770 95,780 70,790 60,815 50,790 25,780 50,770"/>
+<circle cx="60" cy="780" r="45" opacity="0.4"/>
+<circle cx="60" cy="780" r="2" fill="#fae7a5" opacity="0.6"/>
+<polygon points="200,745 210,770 235,780 210,790 200,815 190,790 165,780 190,770"/>
+<circle cx="200" cy="780" r="45" opacity="0.4"/>
+<circle cx="200" cy="780" r="2" fill="#fae7a5" opacity="0.6"/>
+<polygon points="340,745 350,770 375,780 350,790 340,815 330,790 305,780 330,770"/>
+<circle cx="340" cy="780" r="45" opacity="0.4"/>
+<circle cx="340" cy="780" r="2" fill="#fae7a5" opacity="0.6"/>
+<polygon points="480,745 490,770 515,780 490,790 480,815 470,790 445,780 470,770"/>
+<circle cx="480" cy="780" r="45" opacity="0.4"/>
+<circle cx="480" cy="780" r="2" fill="#fae7a5" opacity="0.6"/>
+<polygon points="620,745 630,770 655,780 630,790 620,815 610,790 585,780 610,770"/>
+<circle cx="620" cy="780" r="45" opacity="0.4"/>
+<circle cx="620" cy="780" r="2" fill="#fae7a5" opacity="0.6"/>
+<polygon points="760,745 770,770 795,780 770,790 760,815 750,790 725,780 750,770"/>
+<circle cx="760" cy="780" r="45" opacity="0.4"/>
+<circle cx="760" cy="780" r="2" fill="#fae7a5" opacity="0.6"/>
+<polygon points="900,745 910,770 935,780 910,790 900,815 890,790 865,780 890,770"/>
+<circle cx="900" cy="780" r="45" opacity="0.4"/>
+<circle cx="900" cy="780" r="2" fill="#fae7a5" opacity="0.6"/>
+<polygon points="1040,745 1050,770 1075,780 1050,790 1040,815 1030,790 1005,780 1030,770"/>
+<circle cx="1040" cy="780" r="45" opacity="0.4"/>
+<circle cx="1040" cy="780" r="2" fill="#fae7a5" opacity="0.6"/>
+<polygon points="60,885 70,910 95,920 70,930 60,955 50,930 25,920 50,910"/>
+<circle cx="60" cy="920" r="45" opacity="0.4"/>
+<circle cx="60" cy="920" r="2" fill="#fae7a5" opacity="0.6"/>
+<polygon points="200,885 210,910 235,920 210,930 200,955 190,930 165,920 190,910"/>
+<circle cx="200" cy="920" r="45" opacity="0.4"/>
+<circle cx="200" cy="920" r="2" fill="#fae7a5" opacity="0.6"/>
+<polygon points="340,885 350,910 375,920 350,930 340,955 330,930 305,920 330,910"/>
+<circle cx="340" cy="920" r="45" opacity="0.4"/>
+<circle cx="340" cy="920" r="2" fill="#fae7a5" opacity="0.6"/>
+<polygon points="480,885 490,910 515,920 490,930 480,955 470,930 445,920 470,910"/>
+<circle cx="480" cy="920" r="45" opacity="0.4"/>
+<circle cx="480" cy="920" r="2" fill="#fae7a5" opacity="0.6"/>
+<polygon points="620,885 630,910 655,920 630,930 620,955 610,930 585,920 610,910"/>
+<circle cx="620" cy="920" r="45" opacity="0.4"/>
+<circle cx="620" cy="920" r="2" fill="#fae7a5" opacity="0.6"/>
+<polygon points="760,885 770,910 795,920 770,930 760,955 750,930 725,920 750,910"/>
+<circle cx="760" cy="920" r="45" opacity="0.4"/>
+<circle cx="760" cy="920" r="2" fill="#fae7a5" opacity="0.6"/>
+<polygon points="900,885 910,910 935,920 910,930 900,955 890,930 865,920 890,910"/>
+<circle cx="900" cy="920" r="45" opacity="0.4"/>
+<circle cx="900" cy="920" r="2" fill="#fae7a5" opacity="0.6"/>
+<polygon points="1040,885 1050,910 1075,920 1050,930 1040,955 1030,930 1005,920 1030,910"/>
+<circle cx="1040" cy="920" r="45" opacity="0.4"/>
+<circle cx="1040" cy="920" r="2" fill="#fae7a5" opacity="0.6"/>
+<polygon points="60,1025 70,1050 95,1060 70,1070 60,1095 50,1070 25,1060 50,1050"/>
+<circle cx="60" cy="1060" r="45" opacity="0.4"/>
+<circle cx="60" cy="1060" r="2" fill="#fae7a5" opacity="0.6"/>
+<polygon points="200,1025 210,1050 235,1060 210,1070 200,1095 190,1070 165,1060 190,1050"/>
+<circle cx="200" cy="1060" r="45" opacity="0.4"/>
+<circle cx="200" cy="1060" r="2" fill="#fae7a5" opacity="0.6"/>
+<polygon points="340,1025 350,1050 375,1060 350,1070 340,1095 330,1070 305,1060 330,1050"/>
+<circle cx="340" cy="1060" r="45" opacity="0.4"/>
+<circle cx="340" cy="1060" r="2" fill="#fae7a5" opacity="0.6"/>
+<polygon points="480,1025 490,1050 515,1060 490,1070 480,1095 470,1070 445,1060 470,1050"/>
+<circle cx="480" cy="1060" r="45" opacity="0.4"/>
+<circle cx="480" cy="1060" r="2" fill="#fae7a5" opacity="0.6"/>
+<polygon points="620,1025 630,1050 655,1060 630,1070 620,1095 610,1070 585,1060 610,1050"/>
+<circle cx="620" cy="1060" r="45" opacity="0.4"/>
+<circle cx="620" cy="1060" r="2" fill="#fae7a5" opacity="0.6"/>
+<polygon points="760,1025 770,1050 795,1060 770,1070 760,1095 750,1070 725,1060 750,1050"/>
+<circle cx="760" cy="1060" r="45" opacity="0.4"/>
+<circle cx="760" cy="1060" r="2" fill="#fae7a5" opacity="0.6"/>
+<polygon points="900,1025 910,1050 935,1060 910,1070 900,1095 890,1070 865,1060 890,1050"/>
+<circle cx="900" cy="1060" r="45" opacity="0.4"/>
+<circle cx="900" cy="1060" r="2" fill="#fae7a5" opacity="0.6"/>
+<polygon points="1040,1025 1050,1050 1075,1060 1050,1070 1040,1095 1030,1070 1005,1060 1030,1050"/>
+<circle cx="1040" cy="1060" r="45" opacity="0.4"/>
+<circle cx="1040" cy="1060" r="2" fill="#fae7a5" opacity="0.6"/>
+<polygon points="60,1165 70,1190 95,1200 70,1210 60,1235 50,1210 25,1200 50,1190"/>
+<circle cx="60" cy="1200" r="45" opacity="0.4"/>
+<circle cx="60" cy="1200" r="2" fill="#fae7a5" opacity="0.6"/>
+<polygon points="200,1165 210,1190 235,1200 210,1210 200,1235 190,1210 165,1200 190,1190"/>
+<circle cx="200" cy="1200" r="45" opacity="0.4"/>
+<circle cx="200" cy="1200" r="2" fill="#fae7a5" opacity="0.6"/>
+<polygon points="340,1165 350,1190 375,1200 350,1210 340,1235 330,1210 305,1200 330,1190"/>
+<circle cx="340" cy="1200" r="45" opacity="0.4"/>
+<circle cx="340" cy="1200" r="2" fill="#fae7a5" opacity="0.6"/>
+<polygon points="480,1165 490,1190 515,1200 490,1210 480,1235 470,1210 445,1200 470,1190"/>
+<circle cx="480" cy="1200" r="45" opacity="0.4"/>
+<circle cx="480" cy="1200" r="2" fill="#fae7a5" opacity="0.6"/>
+<polygon points="620,1165 630,1190 655,1200 630,1210 620,1235 610,1210 585,1200 610,1190"/>
+<circle cx="620" cy="1200" r="45" opacity="0.4"/>
+<circle cx="620" cy="1200" r="2" fill="#fae7a5" opacity="0.6"/>
+<polygon points="760,1165 770,1190 795,1200 770,1210 760,1235 750,1210 725,1200 750,1190"/>
+<circle cx="760" cy="1200" r="45" opacity="0.4"/>
+<circle cx="760" cy="1200" r="2" fill="#fae7a5" opacity="0.6"/>
+<polygon points="900,1165 910,1190 935,1200 910,1210 900,1235 890,1210 865,1200 890,1190"/>
+<circle cx="900" cy="1200" r="45" opacity="0.4"/>
+<circle cx="900" cy="1200" r="2" fill="#fae7a5" opacity="0.6"/>
+<polygon points="1040,1165 1050,1190 1075,1200 1050,1210 1040,1235 1030,1210 1005,1200 1030,1190"/>
+<circle cx="1040" cy="1200" r="45" opacity="0.4"/>
+<circle cx="1040" cy="1200" r="2" fill="#fae7a5" opacity="0.6"/>
+<polygon points="60,1305 70,1330 95,1340 70,1350 60,1375 50,1350 25,1340 50,1330"/>
+<circle cx="60" cy="1340" r="45" opacity="0.4"/>
+<circle cx="60" cy="1340" r="2" fill="#fae7a5" opacity="0.6"/>
+<polygon points="200,1305 210,1330 235,1340 210,1350 200,1375 190,1350 165,1340 190,1330"/>
+<circle cx="200" cy="1340" r="45" opacity="0.4"/>
+<circle cx="200" cy="1340" r="2" fill="#fae7a5" opacity="0.6"/>
+<polygon points="340,1305 350,1330 375,1340 350,1350 340,1375 330,1350 305,1340 330,1330"/>
+<circle cx="340" cy="1340" r="45" opacity="0.4"/>
+<circle cx="340" cy="1340" r="2" fill="#fae7a5" opacity="0.6"/>
+<polygon points="480,1305 490,1330 515,1340 490,1350 480,1375 470,1350 445,1340 470,1330"/>
+<circle cx="480" cy="1340" r="45" opacity="0.4"/>
+<circle cx="480" cy="1340" r="2" fill="#fae7a5" opacity="0.6"/>
+<polygon points="620,1305 630,1330 655,1340 630,1350 620,1375 610,1350 585,1340 610,1330"/>
+<circle cx="620" cy="1340" r="45" opacity="0.4"/>
+<circle cx="620" cy="1340" r="2" fill="#fae7a5" opacity="0.6"/>
+<polygon points="760,1305 770,1330 795,1340 770,1350 760,1375 750,1350 725,1340 750,1330"/>
+<circle cx="760" cy="1340" r="45" opacity="0.4"/>
+<circle cx="760" cy="1340" r="2" fill="#fae7a5" opacity="0.6"/>
+<polygon points="900,1305 910,1330 935,1340 910,1350 900,1375 890,1350 865,1340 890,1330"/>
+<circle cx="900" cy="1340" r="45" opacity="0.4"/>
+<circle cx="900" cy="1340" r="2" fill="#fae7a5" opacity="0.6"/>
+<polygon points="1040,1305 1050,1330 1075,1340 1050,1350 1040,1375 1030,1350 1005,1340 1030,1330"/>
+<circle cx="1040" cy="1340" r="45" opacity="0.4"/>
+<circle cx="1040" cy="1340" r="2" fill="#fae7a5" opacity="0.6"/>
+</g>
+<g transform="translate(540.0, 537.6)">
+<circle r="185" stroke="url(#goldSky)" stroke-width="1.2" opacity="0.3" fill="none"/>
+<circle r="215" stroke="url(#goldSky)" stroke-width="0.8" opacity="0.2" fill="none"/>
+
+        <path d="M 0,-135 
+                 A 135,135 0 1,0 135,0 
+                 A 110.69999999999999,110.69999999999999 0 1,1 0,-135 Z"
+              fill="url(#goldSky)" opacity="0.88" stroke="#fae7a5" stroke-width="2"/>
+    
+<g transform="translate(60.75, -20.25)">
+<polygon points="0.0,-38.0 6.9,-16.6 26.9,-26.9 16.6,-6.9 38.0,0.0 16.6,6.9 26.9,26.9 6.9,16.6 0.0,38.0 -6.9,16.6 -26.9,26.9 -16.6,6.9 -38.0,0.0 -16.6,-6.9 -26.9,-26.9 -6.9,-16.6" fill="#fae7a5" stroke="url(#goldSky)" stroke-width="1.5"/>
+<circle r="7" fill="#ffffff"/>
+</g>
+</g>
+<g transform="translate(0, 0)">
+
+        <path d="M 360.0,1840 
+                 L 360.0,1700
+                 C 360.0,1580 450.0,1560 540.0,1520
+                 C 630.0,1560 720.0,1580 720.0,1700
+                 L 720.0,1840 Z"
+              fill="url(#mosqueFill)" stroke="url(#goldSky)" stroke-width="3" opacity="0.85"/>
+    
+<line x1="540.0" y1="1520" x2="540.0" y2="1465" stroke="url(#goldSky)" stroke-width="3"/>
+<circle cx="540.0" cy="1500" r="6" fill="#fae7a5"/>
+<circle cx="540.0" cy="1480" r="4" fill="#fae7a5"/>
+<path d="M 532.0,1455 A 9,9 0 1,0 548.0,1455 A 7,7 0 1,1 532.0,1455 Z" fill="#fae7a5"/>
+
+            <path d="M 160.0,1840 
+                     L 160.0,1750
+                     C 160.0,1670 210.0,1655 260.0,1630
+                     C 310.0,1655 360.0,1670 360.0,1750
+                     L 360.0,1840 Z"
+                  fill="url(#mosqueFill)" stroke="url(#goldSky)" stroke-width="2.2" opacity="0.8"/>
+        
+<line x1="260.0" y1="1630" x2="260.0" y2="1595" stroke="url(#goldSky)" stroke-width="2"/>
+<circle cx="260.0" cy="1615" r="4" fill="#fae7a5"/>
+
+            <path d="M 720.0,1840 
+                     L 720.0,1750
+                     C 720.0,1670 770.0,1655 820.0,1630
+                     C 870.0,1655 920.0,1670 920.0,1750
+                     L 920.0,1840 Z"
+                  fill="url(#mosqueFill)" stroke="url(#goldSky)" stroke-width="2.2" opacity="0.8"/>
+        
+<line x1="820.0" y1="1630" x2="820.0" y2="1595" stroke="url(#goldSky)" stroke-width="2"/>
+<circle cx="820.0" cy="1615" r="4" fill="#fae7a5"/>
+<rect x="68" y="1430" width="44" height="410" fill="url(#mosqueFill)" stroke="url(#goldSky)" stroke-width="2" opacity="0.85"/>
+<rect x="60" y="1520" width="60" height="18" rx="3" fill="url(#goldSky)" opacity="0.7"/>
+<rect x="62" y="1650" width="56" height="16" rx="3" fill="url(#goldSky)" opacity="0.7"/>
+<polygon points="70,1430 110,1430 90,1360" fill="url(#mosqueFill)" stroke="url(#goldSky)" stroke-width="2"/>
+<line x1="90" y1="1360" x2="90" y2="1320" stroke="url(#goldSky)" stroke-width="2"/>
+<circle cx="90" cy="1342" r="4" fill="#fae7a5"/>
+<path d="M 84,1312 A 7,7 0 1,0 96,1312 A 5.5,5.5 0 1,1 84,1312 Z" fill="#fae7a5"/>
+<rect x="968" y="1430" width="44" height="410" fill="url(#mosqueFill)" stroke="url(#goldSky)" stroke-width="2" opacity="0.85"/>
+<rect x="960" y="1520" width="60" height="18" rx="3" fill="url(#goldSky)" opacity="0.7"/>
+<rect x="962" y="1650" width="56" height="16" rx="3" fill="url(#goldSky)" opacity="0.7"/>
+<polygon points="970,1430 1010,1430 990,1360" fill="url(#mosqueFill)" stroke="url(#goldSky)" stroke-width="2"/>
+<line x1="990" y1="1360" x2="990" y2="1320" stroke="url(#goldSky)" stroke-width="2"/>
+<circle cx="990" cy="1342" r="4" fill="#fae7a5"/>
+<path d="M 984,1312 A 7,7 0 1,0 996,1312 A 5.5,5.5 0 1,1 984,1312 Z" fill="#fae7a5"/>
+<rect x="0" y="1840" width="1080" height="80" fill="#050e18"/>
+<line x1="0" y1="1840" x2="1080" y2="1840" stroke="url(#goldSky)" stroke-width="3" opacity="0.7"/>
+</g>
+<rect x="25" y="25" width="1030" height="1870" rx="16" stroke="url(#goldSky)" stroke-width="2" opacity="0.4" fill="none"/>
+</svg>
